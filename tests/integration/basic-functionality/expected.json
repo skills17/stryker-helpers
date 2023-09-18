@@ -1,0 +1,29 @@
+{
+  "testResults": [
+    {
+      "group": "example.+",
+      "points": 2,
+      "maxPoints": 2,
+      "strategy": "add",
+      "manualCheck": false,
+      "tests": [
+        {
+          "name": "example-ArithmeticOperator",
+          "points": 1,
+          "maxPoints": 1,
+          "successful": true,
+          "required": false,
+          "manualCheck": false
+        },
+        {
+          "name": "example-BlockStatement",
+          "points": 1,
+          "maxPoints": 1,
+          "successful": true,
+          "required": false,
+          "manualCheck": false
+        }
+      ]
+    }
+  ]
+}

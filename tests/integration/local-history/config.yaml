@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=https://schema.skills17.ch/task-config/v3/config.schema.json
+id: local-history
+localHistory: true
+groups:
+  - match: example.+

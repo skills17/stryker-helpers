@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "esnext",
+    "target": "ES2017",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "declaration": true,
+    "outDir": "lib",
+    "types": ["jest"],
+    "typeRoots": ["node_modules/@types"]
+  }
+}

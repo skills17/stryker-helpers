@@ -1,0 +1,8 @@
+------------       RESULT       ------------
+
+Summary:
+  example.+: 2/2 points
+    ✔ example-ArithmeticOperator
+    ✔ example-BlockStatement
+
+Info: The detailed test and error information is visible above the result summary.

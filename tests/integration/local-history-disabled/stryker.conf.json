@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/@stryker-mutator/core/schema/stryker-schema.json",
+  "packageManager": "npm",
+  "allowConsoleColors": false,
+  "testRunner": "jest",
+  "coverageAnalysis": "perTest",
+  "jest": {
+    "configFile": "jest.config.js"
+  }
+}
